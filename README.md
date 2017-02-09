@@ -6,7 +6,7 @@ Paper url: [You Only Look Once]( http://pjreddie.com/media/files/papers/yolo.pdf
 Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
 #sm_darknet
-changed came on detector.c around on 480 number lines... and some other activation function.
+changes came on detector.c around on 480 number lines... and some other activation function.
 
 #How to Use
 1. Build Project as described on darknet project.
